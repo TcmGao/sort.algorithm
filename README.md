@@ -1,3 +1,2 @@
 # sort.algorithm
-the code of eight algorithms 
-implemneted by java
+#Java实现几个简单的排序算法
